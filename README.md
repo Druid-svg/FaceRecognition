@@ -3,7 +3,7 @@
 ## Installation
 #### Installing on Windows
 1.Download the latest version for Windows (https://www.python.org/downloads/)
-  ```python
+  ```sh
   pip help
   ```
 If PIP responds, then PIP is installed. Otherwise, there will be an error saying the program could not be found.
