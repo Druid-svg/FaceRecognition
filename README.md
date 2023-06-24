@@ -1,7 +1,9 @@
 # FaceRecognition
 Installl for Windows
 1.Download the latest version for Windows (https://www.python.org/downloads/)
+  ```python
   pip help
+  ```
 If PIP responds, then PIP is installed. Otherwise, there will be an error saying the program could not be found.
 Before installing PIP, download the get-pip.py file(https://bootstrap.pypa.io/get-pip.py).
   curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
