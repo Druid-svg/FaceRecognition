@@ -1,4 +1,6 @@
 # FaceRecognition
+
+## Installation
 Installl for Windows
 1.Download the latest version for Windows (https://www.python.org/downloads/)
   ```python
